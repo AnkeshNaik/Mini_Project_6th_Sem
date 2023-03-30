@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cellular-nuance-381306",
+  "private_key_id": "3483c53e4b5325efd1ef0d9eadd82b6beb023ae4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC9Yp+Wr9/uqwVP\ngPfjAaijUAxv8xX0/B6e1nhjEYl/cy7905OZ2KV1lL0IHmIVxLyOGnnTw7cTL7XV\nF209gWSMarPtZiPLpcQ7dBuG/jSk+8UGGu+HIz5wrkKUj1RiE1gidrOGXtOmCT9b\n5p2sZO2IT8qDEYzsNVEBEhl89gDQaUSfY/8HHbGbpSM9otAmzZKWvJ1RLvKkpws0\nOX6LZt5MhXPo7i7BUbnYiM2NpaWGVgb8uFRsiYsL+y8NcN3YhMtvNc7t8AWkdKqs\nJ6qp9ghVYvhTwd9bwV0QbNGTXw4DiVEmY2CFkCwlhcC1ZbOnUu4j9MoBOHHdveAv\nYYh/P3XZAgMBAAECggEAB4Ksv4YUBFwF5uQ/cGI1dNyM0be7LC7/a98ngQ5F/Kbt\nuyUz2ksMLMCMSpEh5KkbrSsBn9NIJFulA2FddK339dWZcxW037OgN5dgLBdSsSRG\n6PoSe7J7HG7ctxWEDCumOB+q+O4zyIbfW16m7BpIjTpU1qPQieGHZ9p25ky/NYSV\no7s+Q3Vm0Hh2JYSmjcOnf7vStS6JsNZhdPA917FmrhRbDNHMggPeV8x1rfA+SRi9\nl0g7pBTDR0pY7Pp00eJngp29D8BG/45knkRW9JAesaSJfXpvvc6x7wjGdK8HB5K+\nCVJ0VCJDuepFhnvQ2ROcEjPed+bTY1gC2YbY/SkAAQKBgQD0fRyKmJzKiTfmdU2a\nNXHzyQwOC/o4z6Uv92H1FI4bTnSSdIFYjx7vhxznrkRgRc3djr12vc6x2yDpd/JR\nGUHaRgcq6mhTa+p/AyUZNLnqG/PuYebDPB3IVqctzIZMQRgNtx6Uhj6QjzkpGdk/\nS/ndlXxTe3krCJGCJtKrp/s12QKBgQDGTVW826yCz+mU19E24w4TSkJ+CE8i5NvO\nf/MjbN/RIQeb5Z2pANAoOIVDgZ26Iy0t3B6g+dhc4Rrdu8XiHNBZLJrsXNXt7YsK\nNDGhB8toz9HSGBS12280a35gW6G5U/LUH7s6Qj1t3ZzsowBB1lQgChfeEWPwbpiZ\nYCdjMX5AAQKBgHWvC2ADWeV763Z5HGOQOku4iJ7yUP2rpb3S/En2HPkz6JTek6xH\nKALwLI+wqKUWtKNjI/vWHXorGkqHPBKhb7tbXfPgZVtSZMvCfccGRD9WOTKT2Xo8\no7FdVJeNDVADPUrMzGF9xPvclQ0drh7zuVBZtkCQ/KAkPbZCbcHG1/rxAoGAJWVa\nINZwbu7Uhtw4ORiSg/LCHVBl1BfCl+urJ2gVwTNwYubnV4KuvpcCEpvz6bFOiNJ0\n+DiFo+ZTkbMieySh6d8ujBppwYfFa7QyE8MLigV+9RbTeQQbsY//8h31nqSFK5mc\nTj1Fpl1fhYSrvL61eKFOpPM0nJfOsUXfx6YCwAECgYBQaCKg8KNpYIvSsakLWzYc\nUc99Fp/s3ifYEbBKUep9n5hzD9ohvLfZ0MyyLZGQ/yhuONsRU8M7mhONCLgFYSgD\nUTQrws2ope/2YOKjQuqajKE63ZHJC2+4ANPGKm9Nsvd6AKk6n26I8H7XIiIiGQcz\nOzVgiX2AdOKkfK6qQitFaw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mini-project-6@cellular-nuance-381306.iam.gserviceaccount.com",
+  "client_id": "103139189428099944551",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mini-project-6%40cellular-nuance-381306.iam.gserviceaccount.com"
+}
