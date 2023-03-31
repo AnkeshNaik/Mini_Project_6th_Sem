@@ -50,5 +50,5 @@ with my_mic as source:
     print("Say now!!!!")
     r.adjust_for_ambient_noise(source) #reduce noise
     audio = r.listen(source) #take voice input from the microphone
-# print(r.recognize_google(audio)) #to print voice into text
-print(audio)
+print(r.recognize_google(audio)) #to print voice into text
+#print(audio)

@@ -10,7 +10,7 @@ speech_client = speech.SpeechClient()
 # Transcribing Local media File, file size< 10 mb and duration< 1 min
 
 # Step Number 1-->Loading the Media Files(local)
-media_file_name = 'KND-1.mp3'
+media_file_name = 'ankesh2.wav'
 
 with open(media_file_name, 'rb') as f1:
     byte_data = f1.read()
@@ -22,6 +22,7 @@ config_mp3 = speech.RecognitionConfig(
     sample_rate_hertz=48000,
     enable_automatic_punctuation=True,
     language_code='kn-IN',
+    audio_channel_count = 2
 )
 
 ##Step3. TRanscribing the recognition
