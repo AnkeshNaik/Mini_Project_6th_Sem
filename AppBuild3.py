@@ -1,12 +1,15 @@
 # import required module
-import speech_recognition as sr
+import os
 
+import speech_recognition as sr
+from google.cloud import translate_v2 as translate
 
 # explicit function to take input commands
 # and recognize them
-def takeCommandHindi():
-    r = sr.Recognizer()
-    with sr.Microphone() as source:
+os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'client_service_key.json'
+
+r = sr.Recognizer()
+with sr.Microphone() as source:
 
         # seconds of non-speaking audio before
         # a phrase is considered complete
@@ -26,11 +29,16 @@ def takeCommandHindi():
         except Exception as e:
             print(e)
             print("Say that again sir")
-            return "None"
-        return Query
 
 
+translate_client = translate.Client()
+text = Query
+target = 'en-IN'
+output = translate_client.translate(
+text,
+target_language=target)
+print(output['translatedText'])
 # Driver Code
 
 # call the function
-takeCommandHindi()
+
